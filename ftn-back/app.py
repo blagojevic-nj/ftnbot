@@ -5,7 +5,7 @@ from typing import List
 from openai import OpenAI
 from database_adapter import DatabaseAdapter
 
-OPENAI_API_KEY = "sk-proj-TDhM0Ll4r46iqiLMuPUAT3BlbkFJ1a4n3r0yAAyQHMuX6l9f"
+OPENAI_API_KEY = ""
 
 app = Flask(__name__)
 CORS(app)
