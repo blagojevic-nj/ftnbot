@@ -1,0 +1,80 @@
+Prijemni P1 je sad Matematika, a P9 je Matematika sa logikom.
+
+Tako je, više se ne koriste oznake P za prijemne ispite. Za smer Mehanizacija i konstrukciono mašinstvo se polaže prijemni Matematika sa logikom. Testovi sklonosti i Logika nisu ista stvar.
+
+Zdravo, softversko inženjerstvo i informacione tehnologije traje 4 godine, to su osnovne akademske studije, dok softerske i informacione tehnologije traju 3 godine i to su strukovne studije. Prijemni za softversko inženjerstvo i informacione tehnologije je samo matematika, a za softverske i informacione tehnologije se polaže matematika sa logikom
+
+Zdravo, što se tiče prijemnog matematika sa logikom tu se dobijaju dva testa. Jedan test je iz matematike i sadrži 5 zadataka. Drugi test je test logike, tu se dobija 5 zadataka. Princip je taj da se na prijemnom uradi jedan test, preda se i onda se dobija drugi test
+
+Osvajanjem jednog od prva tri mesta postoji mogućnost da budeš oslobođena prijemnog. Prilikom prijave za prijemni prilažeš svu dokumentaciju koja je neophodna, kao i dokaz o osvojenom mestu na takmičenju. Ti svakako priloži sve što imaš, a onda će komisija koja pregleda odlučiti o tome da li ćeš biti oslobođena ili ne
+
+Tako je, kako je i smer Softverske i informacione tehnologije takođe u sklopu strukovnih studija ideja ovog studijskog programa je ista a to je fokus na praktična znanja. Razlika između ova dva programa je taj što se na smeru SIT fokus stavlja dominantno na softver i softverske alate, dok je na programu EEiOIE fokus na više različitih inženjerskih oblasti iz domena elektrotehnike i računarstva, a koji uključuje i neke oblasti elektrotehnike i neke oblasti programiranja, jer je cilj da student koji završi smer EEiOIE ima širinu u svom obrazovnom profilu imajući u vidu da je upravo to ono što se sve češće traži u kompanijama u kojima se naši studenti zapošljavaju. Što se tiče SIT tu ćete učiti o različitim softverskim alatima koji omogućavaju WEB dizajn i sl. pa do upravljanja bazama podataka i internet bezbednosti što su opet specifične inženjerske oblasti.
+
+ono što mi možemo da ti kažemo je da se boduje sve što je tačno napisano, a vezano za zadatak. Način bodovanja i koliko nosi koji deo zadatka nam nije poznat.
+
+Konkurs se može očekivati krajem maja.
+
+Menadžment se bazira na povezivanju biznisa, organizovanja i vodjenja preduzeća i generalno upravljanju svih funkcija. U suštini menadžer je osoba koja upravlja u svim sektorima i ti ćeš se u toku studija pronaći u nekoj od tih funkcija. Detaljnije možeš pročitati na sajtu fakulteta a tamo takodje možeš videti predmete u svim godinama.
+U 3. godini u drugom semestru se opredeljuješ na module kao što su organizacija i upravljanje preduzećem, investicioni menadžment, menadžmenta ljudskih resursa, IT menadžment i mnogi drugi. Pre opredeljenja uči se od svega po malo kako bi mogla da saznaš šta te najviše zanima i u kojoj funkciji se pronalaziš. Upravo zbog ovoga mi se smer najviše i svidja, jer ne moraš odma na početku znati čime ćeš se baviti već ćeš iskustvom uvideti šta ti najviše odgovara.
+Što se tiče zaposlenja, nakom završenih studija možeš se zaposliti i u proizvodnim i uslužnim preduzećima, bankama, osiguravajućim kućama odnosno u onoj kompaniji koja se bavi strukom za koju si se opredelila
+
+što se tiče prijemnog ispita, na sajtu možeš pronaći primere prijemnih ispita od ranijih godina. Što se tiče smera Saobraćaj i transport, za njega se polaže prijemni Matematika sa logikom, a statistiku upisa za ovaj smer, kao i za sve ostale možeš takođe pronaći na sajtu
+
+Trenutno ne postoji opcija naručivanja zbirke
+
+Najbliži domovi Fakultetu Tehnickih Nauka su “Veljko Vlahović” i “Slobodan Bajić”. Kako funkcioniše prijava i sve informacije vezane za dom možeš pročitati na linku.
+https://www.scns.rs/smestaj-studenata/
+
+Zdravo Stefane, oznake P za prijemne ispite se više ne koriste. Što se tiče smera Građevina, za ovaj smer se polaže prijemni Matematika sa testom sklonosti za Građevinarstvo
+
+Za smer Građevinarstvo nije potrebno pripremati planimetriju i stereometriju. Sve informacije koje pronađete na sajtu fakulteta su verodostojne.
+
+Smer E1 je Energetika, elektronika i telekomunikacije, a smer E2 je Računarstvo i automatika.
+
+OBLASTI IZ MATEMATIKE ZA STUDIJSKE PROGRAME: Energetika, elektronika i telekomunikacije; Računarstvo i automatika; Mehatronika; Softversko inženjerstvo i informacione tehnologije; Elektroenergetski softverski inženjering; Merenje i regulaciju; Biomedicinsko inženjerstvo; Inženjerstvo informacionih sistema; Informacioni inženjering; Animacija u inženjerstvu.
+1. Osnovne logičke operacije, pojam funkcije.
+2. Brojevi (prirodni, celi, racionalni, iracionalni, realni, kompleksni).
+3. Proporcionalnost veličina i primene.
+4. Racionalni algebarski izrazi. Polinomi.
+5. Linearna funkcija. Linearne jednačine i nejednačine, sistemi linearnih jednačina i nejednačina.
+6. Stepenovanje i korenovanje.
+7. Kvadratna funkcija. Kvadratne jednačine i nejednačine. Sistemi kvadratnih jednačina.
+8. Algebarske i iracionalne jednačine i nejednačine.
+9. Pojam logaritma. Logaritamska i eksponencijalna funkcija. Logaritamske i eksponencijalne jednačine i nejednačine.
+10. Trigonometrijske funkcije. Identiteti, jednačine i nejednačine. Primena trigonometrije.
+11. Matematička indukcija i nizovi. Aritmetička i geometrijska progresija.
+12. Kombinatorika i binomni obrazac.
+13. Planimetrija (prvenstveno geometrija trougla, četvorougla i kruga).
+14. Stereometrija (prizma, piramida, zarubljena piramida, valjak, kupa, zarubljena kupa, sfera i delovi sfere).
+15. Vektori.
+16. Analitička geometrija u ravni (prava, kružnica, elipsa, hiperbola i parabola).
+17. Granične vrednosti nizova i funkcija. Izvod i primena.
+18. Integralni račun
+
+OBLASTI IZ MATEMATIKE ZA STUDIJSKE PROGRAME: Proizvodno mašinstvo; Mehanizacija i konstrukciono mašinstvo; Energetika i procesna tehnika; Tehnička mehanika i dizajn u tehnici; Industrijsko inženjerstvo; Inženjerski menadžment; Grafičko inženjerstvo i dizajn; Inženjerstvo zaštite životne sredine; Inženjerstvo zaštite na radu; Upravljanje rizikom od katastrofalnih događaja i požara; Građevinarstvo; Saobraćaj i transport; Poštanski saobraćaj i telekomunikacije; Geodezija i geoinformatika; Čiste energetske tehnologije; Strukovne studije: Softverske i informacione tehnologije, Elektrotehnika.
+1. Osnovne logičke operacije, pojam funkcije.
+2. Brojevi (prirodni, celi, racionalni, iracionalni, realni, kompleksni).
+3. Proporcionalnost veličina i primene.
+4. Racionalni algebarski izrazi. Polinomi.
+5. Linearna funkcija. Linearne jednačine i nejednačine, sistemi linearnih jednačina i nejednačina.
+6. Stepenovanje i korenovanje.
+7. Kvadratna funkcija. Kvadratne jednačine i nejednačine.
+8. Algebarske i iracionalne jednačine i nejednačine.
+9. Pojam logaritma. Logaritamska i eksponencijalna funkcija. Logaritamske i eksponencijalne jednačine i nejednačine.
+10. Trigonometrijske funkcije. Identiteti, jednačine i nejednačine. Primena trigonometrije.
+11. Matematička indukcija i nizovi. Aritmetička i geometrijska progresija.
+12. Kombinatorika i binomni obrazac.
+13. Vektori.
+
+Na smeru Saobraćaj i transport na osnovnim studijama nema usmerenja. Tek na masteru postoje usmerenja u skladu sa tvojim interesovanjima
+
+Na smeru saobracaj i trasnport ces izučavati razne oblasti saobraćaja kao što su: logistika, špedicija, transport opasne robe, sve vrste transporta, projektovanje, bezbednost saobraćaja itd. U prvoj godini ćeš imati više neke opšte predmete kao što su: matematika 1 i 2, fizika, mehanika, elektrotehnika... Nemoj da te ovo uplaši zato što se na svakom predavanju kreće od nule. Težina samih predmeta je subjektivna stvar, ali mnogo će ti pomoći ako budeš redovna na predavanjima i vežbama. Profesori i asistenti su spremni da pojasne i pomognu u terminu konsultacija, ili po dogovoru. Nakon završetka osnovnih studija imaš širok spektar po pitanju zaposlenja
+
+industrijsko inženjerstvo je multridisciplinaran smer koji objedinjuje znanja iz mašinstva, računarstva i menadžmenta, te na osnovu toga studentu daje celokupnu sliku funkcionisanja preduzeća. Kroz kurseve u toku prve tri godine studija studenti stiču znanja veza za automatizaciju procesa rada, razvoj proizvodnih i informacionih sistema, kontrolu i upravljanje kvalitetom proizvoda i procesa, itd.
+U zavisnosti od usmerenja koje se bira u četvrtoj godini, širi se znanje iz neke od pomenutih oblasti.
+Generalno gledano, smer oblikuje inženjere koji će sa svojim znanjem iz različitih oblasti optimizovati proces proizvodnje kako bi on bio što produktivniji, efikasniji i jeftiniji.
+
+Do sada je cena jednog prijemnog ispita iznosila 6000 dinara
+
+Što se tiče smera Animacija u inženjerstvu - postoje predmeti koji se bave obradom kako slike (fotografije), tako i videa i to se radi u programima kao što su Photoshop i AfterEffects. Što se tiče web dizajna - to takođe postoji na ovom studijskom programu i rade se HTML, CSS, JavaScript
+
