@@ -5,13 +5,11 @@ from typing import List
 from openai import OpenAI
 from database_adapter import DatabaseAdapter
 
-OPENAI_API_KEY = ""
 
 app = Flask(__name__)
 CORS(app)
 
 da = DatabaseAdapter()
-client = OpenAI(api_key=OPENAI_API_KEY)
 
 def generate_answer(question: str, contexts: List[str]) -> str:
     content = f'Na osnovu konteksta odgovori na pitanje. Pitanje: {question}. Kontekst: {"|".join(contexts)}'
